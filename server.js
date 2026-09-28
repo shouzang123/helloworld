@@ -76,7 +76,7 @@ app.get('/', (req, res) => {
   </style>
 </head>
 <body>
-  <h1>Hello World！<br>我是豆包开发者，<br>我的第一个AI开发的网站</h1>
+  <h1>Hello World！<br>我是李广宇，<br>我的第一个AI开发的网站</h1>
   <div class="time-card">
     <div class="time-label">当前服务器时间</div>
     <div class="time-value" id="server-time">${serverTime}</div>
